@@ -1,0 +1,3 @@
+This repository contains resources shared in the full Google Data Analytics course from Coursera in English and Spanish. It contains the resources from the last version from December 2022. The intention of this repository is for personal review and documentation.
+
+Este repositorio contiene los recursos compartidos en el curso completo de Google Data Analytics de Coursera en inglés y español. Contiene los recursos de la última versión de diciembre de 2022. La intención de este repositorio es la revisión y documentación personal.
