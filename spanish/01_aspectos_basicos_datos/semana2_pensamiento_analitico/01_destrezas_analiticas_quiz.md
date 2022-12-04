@@ -4,11 +4,14 @@
 
 &nbsp;
 
-![img](images/patron1.png)
+<!--- ![img](images/patron1.png) -->
+
+[<img src="images/patron1.png" width="700"/>](images/patron1.png)
 
 **Bloque faltante:**
 
-![img](images/ans1.png)
+<!--- ![img](images/ans1.png) -->
+[<img src="images/ans1.png" width="150"/>](images/ans1.png)
 
 > Este es el bloque que falta. El patrón de los puntos aumenta en uno en cada bloque. Por lo tanto, la mejor respuesta tiene cinco puntos.
 
@@ -18,11 +21,13 @@
 
 &nbsp;
 
-![img](images/patron2.png)
+<!--- ![img](images/patron2.png) -->
+[<img src="images/patron2.png" width="700"/>](images/patron2.png)
 
 **Bloque faltante:**
 
-![img](images/ans2.png)
+<!--- ![img](images/ans2.png) -->
+[<img src="images/ans2.png" width="150"/>](images/ans2.png)
 
 > Esta es la siguiente imagen de la secuencia basada en dos patrones presentes en la serie: el número de lados y el número de puntos. Yendo de izquierda a derecha, ambos disminuyen en uno. Según estos patrones, si el bloque anterior contenía una forma con cuatro lados y tres puntos, entonces la siguiente forma debería tener tres lados y dos puntos.
 
@@ -60,7 +65,8 @@ Dos formas son similares cuando una puede convertirse en la otra después de rot
 
 &nbsp;
 
-![img](images/patron3.png)
+<!--- ![img](images/patron3.png) -->
+[<img src="images/patron3.png" width="200"/>](images/patron3.png)
 
 &nbsp;
 
@@ -68,13 +74,15 @@ Tu tarea es elegir la figura que completa la instrucción. Presta atención al p
 
 &nbsp;
 
-![img](images/patron4.png)
+<!--- ![img](images/patron4.png) -->
+[<img src="images/patron4.png" width="500"/>](images/patron4.png)
 
 &nbsp;
 
 **Bloque faltante:**
 
-![img](images/ans3.png)
+<!--- ![img](images/ans3.png) -->
+[<img src="images/ans3.png" width="150"/>](images/ans3.png)
 
 > Esta imagen completa la instrucción. La primera imagen de la instrucción se refleja en la segunda imagen. Para completar la analogía, la respuesta sería una imagen que es un reflejo lado a lado de la tercera imagen.
 
@@ -88,13 +96,15 @@ Tu tarea es elegir la figura que completa la instrucción. Completa el espacio e
 
 &nbsp;
 
-![img](images/patron5.png)
+<!--- ![img](images/patron5.png) -->
+[<img src="images/patron5.png" width="450"/>](images/patron5.png)
 
 &nbsp;
 
 **Bloque faltante:**
 
-![img](images/ans4.png)
+<!--- ![img](images/ans4.png) -->
+[<img src="images/ans4.png" width="150"/>](images/ans4.png)
 
 &nbsp;
 
@@ -130,7 +140,8 @@ Completa el espacio en blanco: A, AA, AAA, B, BA, BAA, BAAA, BB, BBA, BBAA, BBAA
 
 **Respuesta:**
 
-![img](images/ans5.png)
+<!--- ![img](images/ans5.png) -->
+[<img src="images/ans5.png" width="450"/>](images/ans5.png)
 
 > Este diagrama representa solamente seis chocolates con relleno de caramelo, cuatro chocolates con relleno de coco y dos chocolates con relleno de caramelo y coco; el número total de chocolates es 12.
 
@@ -144,7 +155,8 @@ Calcula cuántos niños tienen sánduches sin mantequilla de maní ni mermelada 
 
 &nbsp;
 
-![img](images/ans6.png)
+<!--- ![img](images/ans6.png) -->
+[<img src="images/ans6.png" width="450"/>](images/ans6.png)
 
 &nbsp;
 
